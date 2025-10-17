@@ -1,9 +1,5 @@
 # Hospitl-Patient-Analysis-
-Home
-Finance
-Travel
-Academic
-# Hospital Patiet Analysis
+
 ## Overview of Key Insights
 This dataset provides detailed statistics on patients' ages, costs incurred during treatments, length of hospital stays, and recovery outcomes, segmented by diseases and demographics. The average patient age across all conditions is approximately 54 years, with variations depending on the disease [sheet:average age of patient]. Cost analysis shows that serious conditions such as cancer and heart attack tend to incur higher expenses, upwards of 18,000 to 25,000 units [sheet:avg cost].​
 
