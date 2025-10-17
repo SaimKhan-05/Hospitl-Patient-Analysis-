@@ -16,3 +16,5 @@ This extensive data aids healthcare providers in optimizing diagnostic, treatmen
 
 ##  Dashboard
 The dashboard consolidates these insights visually, making it easier for hospital administrators to track performance metrics, disease trends, and patient outcomes [sheet:Dashboard] - https://github.com/SaimKhan-05/Hospitl-Patient-Analysis-/tree/main
+
+<img width="1574" height="558" alt="Hospital Analysis Dashboard" src="https://github.com/user-attachments/assets/a36cf2fb-c6db-4276-8912-d9cb050957a1" />
